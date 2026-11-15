@@ -1,0 +1,26 @@
+{
+  "formatVersion": 1,
+  "variant": 2,
+  "state": {
+    "tracks": [
+      {
+        "code": 1,
+        "title": "Вступление",
+        "artist": "Оркестр",
+        "duration": 120
+      },
+      {
+        "code": 2,
+        "title": "Вальс",
+        "artist": "Дуэт",
+        "duration": 240
+      },
+      {
+        "code": 3,
+        "title": "Танго",
+        "artist": "Квартет",
+        "duration": 200
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+@startuml
+[MainWindow] --> [Program]
+[MainWindow] --> [Storage]
+[Storage] --> [Program]
+[tst_music] --> [Program]
+[tst_music] --> [Storage]
+@enduml
